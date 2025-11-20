@@ -1,0 +1,8 @@
+{
+  "name": "DeepGetty",
+  "description": "An elite AI-powered fitness ecosystem featuring Studio disciplines, On-the-Go coaching, and real-time AI vision analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
